@@ -1,6 +1,6 @@
 # Authentique Dragon Fée Malicieux
 
-Le dragon fée invoqué en tant que familier par les personnages chaotiques bons est sérieusement amélioré par ce mod. Ce familier amélioré :
+Le dragon fée invoqué en tant que familier par les personnages chaotiques bons est sérieusement amélioré par ce mod :
 
 24 points de vie (48 dans TOB), 96% de résistance à la magie
 

@@ -9,10 +9,14 @@ A des capacités de voleur :
 - Vol à la tire 55%
 - Détection des pièges 70%
 - Pose de pièges 100%
-  Détection des illusions 50%
+- Détection des illusions 50%
 
-peux lancer des sorts de magicien et de clerc :
-
+Peux lancer des sorts de magicien et de clerc :
 - Glisse, Hantise, Poussière scintillante, Charme néfaste, Porte dimensionnelle, Champ de téléportation
 - Enchevêtrement, Pierre magique, Silence, Convocation d'insectes, Convocation des animaux, Poussière de fée
 
+A des capacités innées :
+- Invisibilité (à volonté)
+- Souffle de dragon fée (5x par jour)(jds contre les souffles ou confusion pendant 7 minutes)
+- Farces (5x par jour)(Mauvaise blague, Lancer d'oeuf pourri, Ventriloquie, Poil à gratter, Tendre un fil
+- Recherche de baies (1 fois par jour)

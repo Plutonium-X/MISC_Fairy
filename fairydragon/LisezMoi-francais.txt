@@ -1,0 +1,107 @@
+==================================================================================
+Nom du mod : L'Authentique Dragon Fée Malicieux 
+==================================================================================
+Nom du créateur :     JOG
+Email du créateur :    jo.ge@gmx.net
+Site web du créateur :  
+==================================================================================
+Jeux compatibles:
+-----------------
+
+ [ ] Baldur's Gate
+ [ ] Baldur's Gate: Tales of the Sword Coast
+
+ [X] Baldur's Gate II: Shadows of Amn
+ [X] Baldur's Gate II: Throne of Bhaal
+
+ [ ] Icewind Dale
+ [ ] Icewind Dale: Heart of Winter
+ [ ] Icewind Dale: Heart of Winter avec Trials of the Luremaster
+ [ ] Icewind Dale 2
+
+ [ ] Planescape: Torment
+
+==================================================================================
+Contenu de l'archive / Description :
+------------------------------------
+
+Un familier utile et plus authentique : le dragon fée.
+Ce n'est plus seulement un objet qui donne 12 points de vie - ce familier devient le septième membre de votre groupe... 
+
+
+Paramètres :
+
+  En tant que dragon fée à 24 points de vie, ce familier est censé être un "grand ver" avec 96% de résistance à la magie.
+  Le familier original de Baldur's Gate II avait 100% de résistance à l'électricité et 150% de résistance au feu, mais 0% de résistance à la magie ; ceci a été corrigé de la manière suivante : 0% de résistance au feu et 96 % de de résistance à la magie.
+
+  Le dragon fée possède maintenant des sorts de magicien et de clerc (choisis dans une perspective de "mauvais tour/farce"), ainsi que des capacités de voleur.
+
+  Sorts de magicien : Glisse, Hantise, Poussière scintillante, Charme néfaste, Porte dimensionnelle, Champ de téléportation
+
+  Sorts de clerc : Enchevêtrement, Pierre magique, Silence, Convocation d'insectes, Convocation des animaux, Poussière de fée
+
+  Capacités de voleur :      Déplacement silencieux     100% 
+                             Se cacher dans l'ombre     150%   
+                             Crochetage des serrures     30%
+                             Vol à la tire               55%
+                             Détection des pièges        70%
+                             Pose de pièges             100%  
+                             Détection des illusions     50%
+    
+     
+
+Capacités innées :  
+
+
+ Invisibilité (à volonté)
+
+  Un dragon fée peut se rendre invisible à volonté. Instantanément, et aussi souvent qu'il le souhaite.
+
+
+ Souffle de dragon fée (5 par jour)
+
+  En cas d'échec au jet de sauvegarde contre le souffle, le souffle de gaz euphorisant rend la cible incapable d'attaquer et l'oblige à errer, confuse, pendant 7,5 minutes (de temps de jeu)
+
+
+ Farces (5 par jour)
+
+  Attention au malicieux dragon fée : il a plus d'un tour dans son sac ! Le dragon peut choisir parmi ces cinq farces : 
+
+    Mauvaise blague :  Effraie la cible (probabilité de 50% de faire tomber son arme)
+
+    Lancer d'oeuf pourri :  La victime devient enragée (berserk) pendant un court moment, et suspecte la créature la plus proche d'avoir lancé l'oeuf.
+
+    Ventriloquie :  Toutes les créatures autour de la cible s'enfuient, paniquées, ce qui en pratique détruit toute possibilité de formation.
+
+    Poil à gratter :  La difficulté à se concentrer rend impossible le lancer de sorts et rend les attaques physiques plus difficiles à effectuer.
+
+    Tendre un fil :  Les ennemis trébuchent sur le fil tendu et font tomber leurs armes. 
+
+
+ Recherche de baies (1 fois par jour)
+
+  Quand il est à l'extérieur, un dragon fée peut rechercher des baies et autres petits fruits, qu'il stocke (on ne sait comment) dans son inventaire.
+
+  Manger un fruit (grâce au bouton "Utiliser objet") produit les effets suivants :
+
+                     Probabilité de trouver	Nombre maximum		Effet 
+
+  Raisins			40%			1		Hâte
+  Fraises			10%			1		Remet en mémoire tous les sorts
+  Baies de guril		5%			1		Régénération (1PV/3 Sec. pendant 30 Tours !)
+  Myrtilles		    100% / 55%			2		Soigne 10 points de vie
+
+
+  Note : 
+   Le dragon fée peut accumuler deux myrtilles ; s'il n'en a pas, la probabilité d'en trouver une est de 100%. Après cela, sa probabilité d'en trouver une autre n'est plus que de 55%. 
+   Quand le dragon possède déjà deux myrtilles, il ne ressent plus le besoin d'en chercher d'autres, ou peut-être en mange-t-il une pendant qu'il cherche...
+
+   Un principe similaire s'applique aux autres fruits. Si le dragon fée en a déjà un, alors il n'en cherchera pas d'autre.
+
+
+==================================================================================
+INSTRUCTIONS PARTICULIERES :
+----------------------------
+
+Ces changements ne s'appliquent que si vous n'avez pas encore lancé le sort "familier".
+Pour pouvoir obtenir un familier dragon fée, il vous faut bien sûr un magicien chaotique bon.

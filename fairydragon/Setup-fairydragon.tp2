@@ -1,0 +1,99 @@
+BACKUP ~fairydragon\backup~
+AUTHOR ~JOG (jo.ge@gmx.net), Badgert (WeiDU conversion)~
+
+VERSION ~v6~
+
+ALWAYS
+	ACTION_DEFINE_ARRAY b_reload BEGIN
+	"setup.tra"
+	END
+	ACTION_DEFINE_ARRAY b_noconvert BEGIN END
+		LAF HANDLE_CHARSETS
+		INT_VAR
+		infer_charset = 1
+		STR_VAR
+		tra_path = EVAL ~%MOD_FOLDER%/Tra~
+		noconvert_array = b_noconvert
+		reload_array = b_reload
+	END
+END
+
+AUTO_TRA ~fairydragon/tra/%s~
+LANGUAGE "English" "english"
+         ~fairydragon/tra/english/setup.tra~
+LANGUAGE "Russian" "russian"
+         ~fairydragon/tra/russian/setup.tra~
+LANGUAGE "Italian (translation by Ilot)" "italian"
+         ~fairydragon/tra/italian/setup.tra~
+LANGUAGE "German (Uebersetzung von Rumpelstilz)" "german"
+         ~fairydragon/tra/german/setup.tra~
+LANGUAGE "French (translation by Le Marquis (of the d'Oghmatiques))" "french"
+         ~fairydragon/tra/french/setup.tra~
+
+BEGIN @0
+
+//Installation items
+COPY ~fairydragon/itm/FDBERRY1.ITM~ ~override/FDBERRY1.ITM~       
+  SAY NAME1 @1 
+  SAY NAME2 @1 
+  SAY UNIDENTIFIED_DESC @2 
+  SAY 0x10e @3 
+
+COPY ~fairydragon/itm/FDBERRY2.ITM~ ~override/FDBERRY2.ITM~       
+  SAY NAME1 @4 
+  SAY NAME2 @4 
+  SAY UNIDENTIFIED_DESC @2 
+  SAY 0xae @3 
+
+COPY ~fairydragon/itm/FDBERRY3.ITM~ ~override/FDBERRY3.ITM~       
+  SAY NAME1 @5 
+  SAY NAME2 @5 
+  SAY UNIDENTIFIED_DESC @2 
+  SAY 0x10e @3 
+
+COPY ~fairydragon/itm/Immcloud.ITM~ ~override/Immcloud.ITM~
+
+//Installation spells
+COPY ~fairydragon/spl/FAIRBRTH.SPL~ ~override/FAIRBRTH.SPL~       
+  SAY NAME1 @6 
+  SAY UNIDENTIFIED_DESC @7 
+
+COPY ~fairydragon/spl/FDBERRY.SPL~  ~override/FDBERRY.SPL~        
+  SAY NAME1 @8 
+  SAY UNIDENTIFIED_DESC @9 
+
+COPY ~fairydragon/spl/FDEGG.SPL~    ~override/FDEGG.SPL~          
+  SAY NAME1 @10 
+  SAY UNIDENTIFIED_DESC @7 
+
+COPY ~fairydragon/spl/FDITCH.SPL~   ~override/FDITCH.SPL~         
+  SAY NAME1 @11 
+  SAY UNIDENTIFIED_DESC @7 
+
+COPY ~fairydragon/spl/FDJOKES.SPL~  ~override/FDJOKES.SPL~        
+  SAY NAME1 @12 
+  SAY UNIDENTIFIED_DESC @7 
+
+COPY ~fairydragon/spl/FDPRANK.SPL~  ~override/FDPRANK.SPL~        
+  SAY NAME1 @13 
+  SAY UNIDENTIFIED_DESC @7 
+
+COPY ~fairydragon/spl/FDTRAP.SPL~   ~override/FDTRAP.SPL~         
+  SAY NAME1 @14 
+  SAY UNIDENTIFIED_DESC @7 
+
+COPY ~fairydragon/spl/FDVENT.SPL~   ~override/FDVENT.SPL~         
+  SAY NAME1 @15 
+  SAY UNIDENTIFIED_DESC @7 
+
+COPY ~fairydragon/spl/trapwfx.SPL~  ~override/trapwfx.SPL~
+
+//Installation creatures
+COPY ~fairydragon/cre/FAMFAI25.cre~ ~override/FAMFAI25.cre~       
+
+COPY ~fairydragon/cre/FAMFAIR.cre~  ~override/FAMFAIR.cre~
+
+COPY ~fairydragon/misc~ ~override~
+
+//End of Authentic mischiefous Fairy Dragon
+AT_INTERACTIVE_EXIT ~VIEW fairydragon/ReadMe-fairydragon.txt~ 

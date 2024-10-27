@@ -1,0 +1,124 @@
+==================================================================================
+Packungs Name: Spitzbübischer Feendrache 
+==================================================================================
+Creator Name:     JOG
+Creator Email:    jo.ge@gmx.net
+Creator Web URL:  
+==================================================================================
+Compatible Games:
+-----------------
+
+ [ ] Baldur's Gate
+ [ ] Baldur's Gate: Tales of the Sword Coast
+
+ [X] Baldur's Gate II: Shadows of Amn
+ [X] Baldur's Gate II: Throne of Bhaal
+
+ [ ] Icewind Dale
+ [ ] Icewind Dale: Heart of Winter
+ [ ] Icewind Dale: Heart of Winter with Trials of the Luremaster
+ [ ] Icewind Dale 2
+
+ [ ] Planescape: Torment
+
+==================================================================================
+Packungsinhalt/Beschreibung
+--------------------------
+
+Nützlicher und mehr Spitzbübischer Feendrachen-Vertrauter
+Nicht mehr länger eine Sache, die 12 TP gewährt - dieser Vertraute ist Euer siebtes  Partymitglied ...
+
+
+SPEZIFISCHE EIGENSCHAFTEN:
+
+  Als ein 24 TP Feendrache wird angenommen, dass der Vertraute ein "großer Wurm",
+  mit 96% Magieresistenz ist. Der ursprüngliche SOA Vertraute hatte 100% Elektrizitäts,-
+  und 150% Feuerresistenz, aber 0%  Magieresistenz, dies wurde zu 0% Feuer,- und Elektrizitäts-
+  resitenz, sowie 96% Magieresistenz geändert.
+
+  Der Feendrache hat jetzt Magier- und Priesterzaubersprüche, 
+  (gewählt für Unfugpotential) ebenso wie Diebes-Fähigkeiten
+
+  Magier Sprüche:     Schmieren, Spuk, Glitzerstaub, Schreckenzauber, Dimensionstür,
+                      Teleporter-Feld
+
+  Priester Spüche:    Festhalten, Magischer Stein, Stille, Insekten rufen
+                      Tiere rufen, Feen-Staub
+
+  Diebes-Fähigkeiten: Schleichen              100% 
+                      Im Schatten verstecken  150%   
+                      Schlösser öffnen         30%
+                      Tachendiebstahl          55%
+                      Fallen Finden            70%
+                      Fallen stellen          100%  
+                      Illusionen entdecken     50%
+    
+     
+
+angeborene Fähigkeiten:
+ 
+
+ Unsichtbarkeit (unbegrenzt)
+
+ Ein Feendrache kann sich willentlich unsichtbar machen. Sofort und so oft er es mag.
+
+
+
+ Feendrachen-Atem (5/Tag.)
+
+ Rettungswurf gegen Atemwaffen, oder der Drachenatem beeinflusst das Ziel so,
+ das es für 7,5 Spielminuten verwirrt umherwandert und außerstande ist, anzugreifen.
+
+
+
+ Unfug (5/Tag)
+
+  Hütet Euch sich vor den Streichen vom boshaften Feendrachen! 
+  Der Drache kann einen von fünf Streichen auswählen:
+
+  Streich :             Jagt dem Ziel einen Schrecken ein (50% Wahrscheinlichkeit die Waffe fallen zu lassen.)
+
+  Faules Ei werfen :    Das Opfer wird für eine kurze Zeit wütend und
+                        verdächtigt den nächsten Zuschauer, der Eiwerfer zu sein.
+
+  Bauchreden :          Jeder um das Ziel herum gerät in Panik,
+                        so dass jede Formation  wirksam zerstört wird.
+
+  Juck-Pulver :         Macht es schwer, sich zu auf körperliches Angreifen zu
+                        konzentrieren und unmöglich zu zaubern.
+
+  Stolperdraht legen :  Feinde straucheln über die Stolperdrahtfalle und lassen ihre Waffen fallen. 
+
+
+
+
+ Beerensuche (1/Tag)
+
+
+  Im Freien kann der Feendrache nach Beeren und anderem kleinem Obst suchen,
+  das er (irgendwie irgendwo) in seinem Inventar stapelt.
+
+  Die Früchte (über "Verwendungssache" Knopf) zu essen, hat Spezialeffekte:                  
+
+              Chance-Finden  Gepäck Max   Wirkung bei Verzehr 
+
+  Trauben         40%             1        Hast
+  Erdbeeren       10%             1        Wieder auswendig lernen aller Zaubersprüche        
+  Guril Beeren     5%             1        Regeneriet (1TP/3 Sek. für 30 Turns!)
+  Blaue Beeren   100% / 55%       2        Heilt 10 TP
+
+ Hinweis: 
+  Der Feendrache kann zwei Blaue Beeren stapeln; wenn er tatsächlich keine hat, ist
+  die Wahrscheinlichkeit, eine zu finden 100%. Danach hat er nur noch 55% Wahrscheinlichkeit
+  eine weitere zu finden. Wenn der Drache schon zwei Blaue Beeren hat, ist er zu faul, nach weiteren zu
+  suchen oder er isst vielleicht eine von ihnen. 
+
+  Dasselbe gilt für die anderen Früchte. Hat der Feendrache  schon
+  eine von ihnen, möchte er keine weiteren suchen.
+
+==================================================================================
+SPEZIELLE ANWEISUNGEN:
+---------------------
+
+Die Änderungen treffen nur zu, wenn Sie den "Vertrauten finden" Zauberspruch noch nicht gewirkt haben. 
+Natürlich benötigen Sie einen Chaotisch-Guten Zauberer, um einem Feendrachen-Vertrauten zu holen.

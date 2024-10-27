@@ -2,7 +2,10 @@
 
 Le dragon fée invoqué en tant que familier par les personnages chaotiques bons est sérieusement amélioré par ce mod. Ce familier amélioré :
 
-A des capacités de voleur :
+24 points de vie (48 dans TOB)
+96% de résistance à la magie
+
+Capacités de voleur :
 - Déplacement silencieux 100% 
 - Se cacher dans l'ombre 150%   
 - Crochetage des serrures 30%
@@ -11,11 +14,11 @@ A des capacités de voleur :
 - Pose de pièges 100%
 - Détection des illusions 50%
 
-Peux lancer des sorts de magicien et de clerc :
+Sorts de magicien et de clerc :
 - Glisse, Hantise, Poussière scintillante, Charme néfaste, Porte dimensionnelle, Champ de téléportation
 - Enchevêtrement, Pierre magique, Silence, Convocation d'insectes, Convocation des animaux, Poussière de fée
 
-A des capacités innées :
+Capacités innées :
 - Invisibilité (à volonté)
 - Souffle de dragon fée (5x par jour)(jds contre les souffles ou confusion pendant 7 minutes)
 - Farces (5x par jour)(Mauvaise blague, Lancer d'oeuf pourri, Ventriloquie, Poil à gratter, Tendre un fil)

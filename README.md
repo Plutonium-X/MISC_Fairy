@@ -18,5 +18,5 @@ Peux lancer des sorts de magicien et de clerc :
 A des capacités innées :
 - Invisibilité (à volonté)
 - Souffle de dragon fée (5x par jour)(jds contre les souffles ou confusion pendant 7 minutes)
-- Farces (5x par jour)(Mauvaise blague, Lancer d'oeuf pourri, Ventriloquie, Poil à gratter, Tendre un fil
+- Farces (5x par jour)(Mauvaise blague, Lancer d'oeuf pourri, Ventriloquie, Poil à gratter, Tendre un fil)
 - Recherche de baies (1 fois par jour)

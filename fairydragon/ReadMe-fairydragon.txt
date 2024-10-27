@@ -145,3 +145,6 @@ Version 5 (10 April 2009)
 
 Version 6 (16 April 2009)
 - Added French translation by Le Marquis (of the d'Oghmatiques) (thank you!!!)
+
+version 6.1 (27 october 2025)
+- Added BG(2)EE and EET compatibility

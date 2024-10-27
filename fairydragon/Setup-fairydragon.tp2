@@ -1,9 +1,10 @@
 BACKUP ~fairydragon\backup~
 AUTHOR ~JOG (jo.ge@gmx.net), Badgert (WeiDU conversion)~
 
-VERSION ~v6~
+VERSION ~v6.1~
 
 ALWAYS
+	ACTION_IF GAME_IS ~IWDEE BGEE BG2EE EET~ THEN BEGIN
 	ACTION_DEFINE_ARRAY b_reload BEGIN
 	"setup.tra"
 	END
@@ -15,6 +16,7 @@ ALWAYS
 		tra_path = EVAL ~%MOD_FOLDER%/Tra~
 		noconvert_array = b_noconvert
 		reload_array = b_reload
+	END
 	END
 END
 

@@ -4,21 +4,15 @@ Le dragon fée invoqué en tant que familier par les personnages chaotiques bons
 
 A des capacités de voleur :
 - Déplacement silencieux 100% 
--Se cacher dans l'ombre     150%   
--Crochetage des serrures     30%
--Vol à la tire               55%
--Détection des pièges        70%
--Pose de pièges             100%  
-  Détection des illusions     50%
+- Se cacher dans l'ombre 150%   
+- Crochetage des serrures 30%
+- Vol à la tire 55%
+- Détection des pièges 70%
+- Pose de pièges 100%
+  Détection des illusions 50%
 
-  Sorts de magicien : Glisse, Hantise, Poussière scintillante, Charme néfaste, Porte dimensionnelle, Champ de téléportation
+peux lancer des sorts de magicien et de clerc :
 
-  Sorts de clerc : Enchevêtrement, Pierre magique, Silence, Convocation d'insectes, Convocation des animaux, Poussière de fée
+- Glisse, Hantise, Poussière scintillante, Charme néfaste, Porte dimensionnelle, Champ de téléportation
+- Enchevêtrement, Pierre magique, Silence, Convocation d'insectes, Convocation des animaux, Poussière de fée
 
-  Capacités de voleur :      Déplacement silencieux     100% 
-                             Se cacher dans l'ombre     150%   
-                             Crochetage des serrures     30%
-                             Vol à la tire               55%
-                             Détection des pièges        70%
-                             Pose de pièges             100%  
-                             Détection des illusions     50%
